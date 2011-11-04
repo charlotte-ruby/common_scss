@@ -6,6 +6,6 @@ You can import them in your application's SCSS file:
 
 Then use the mixins:
 
-    #some-class{
+    .some-class{
       @include round;
     }
